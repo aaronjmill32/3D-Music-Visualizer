@@ -1,0 +1,6 @@
+Aaron Miller
+3D Music Visualizer
+
+This project was made to create a cool visualization to go along with music. The visualization is made from taking information from the mp3 that was linked in the page to reflect the visualization so that each tack is different and has its own uniqueness. The project is made by an audio analyzer and 3d modeling made from three.js, a JavaScript library. This program is best viewed in Firefox.
+The audio visualization is made using javascript’s audio node analyzer. Reading in the first part of information from an audio analyzer because it is usually changes the most. The visualization mostly follows the bass/drum line but does reflect the song. The 3D visualization is made my several different cubes. One constantly in the center rotationing and six others that will change in shape and rotation as the songs play depending on the audio node. Using blue to creating a relaxing yet psychedelic feeling as the music plays.
+The goal is to have the main screen playing and left up somewhere where people can look at the animation and awe and still listen to the music.
